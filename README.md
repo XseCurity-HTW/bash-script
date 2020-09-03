@@ -6,7 +6,7 @@ Step 1. open your termux.
 Step 2. git clone https://github.com/XseCurity-HTW/bash-script
 
 
-Step 3. cd bash-scripts
+Step 3. cd bash-script
 
 
 Step 4.sh 1st.sh
